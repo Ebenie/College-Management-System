@@ -1,0 +1,53 @@
+form{
+	
+	height: 60%;
+	margin-top:7%;
+	padding-top:20px;
+	padding-right:20px;
+	padding-bottom:40px;
+	padding-left:20px;
+	border-radius:30px;
+	background-color:white; 
+	width:40%;
+	text-align:center;
+	
+	
+	
+}
+body{
+	background-image: url('collge1.jpg');
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+	
+}
+input{
+	
+		border-radius:30px;
+		height:40px;
+		text-align:center;
+		
+}
+
+
+
+.error{
+	color:red;
+    font-size:30px;
+	
+}
+.login{
+	width:60%;
+	height:40px;
+	background-color:#002147 ;
+    font-size:20px;
+}
+
+label{
+font-size:30px;
+
+}
+.login-type{
+background-color:#002147 ;
+
+}
